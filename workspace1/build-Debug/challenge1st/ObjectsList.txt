@@ -1,1 +1,0 @@
-../build-Debug/challenge1st/main.cpp.o   

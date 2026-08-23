@@ -1,1 +1,0 @@
-../build-Debug/FromGlobalVariables/main.cpp.o   

@@ -8,4 +8,4 @@ build-*/
 workspace1/.cache/
 workspace1/.codelite/
 workspace1/build-*/
-workspace1/*.zip
+workspace1/*.zip.tmp.driveupload/
