@@ -1,0 +1,11 @@
+.cache/
+.codelite/
+build-*/
+*.zip
+*.exe
+*.o
+*.obj
+workspace1/.cache/
+workspace1/.codelite/
+workspace1/build-*/
+workspace1/*.zip

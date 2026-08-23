@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="workspace1" Version="10000">
-  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="Yes"/>
   <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
   <Project Name="challenge1st" Path="challenge1st/challenge1st.project" Active="No"/>
-  <Project Name="FromGlobalVariables" Path="FromGlobalVariables/FromGlobalVariables.project" Active="Yes"/>
+  <Project Name="FromGlobalVariables" Path="FromGlobalVariables/FromGlobalVariables.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
