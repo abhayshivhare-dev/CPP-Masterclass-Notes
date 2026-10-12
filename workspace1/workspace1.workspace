@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="workspace1" Version="10000">
-  <Project Name="Project1" Path="Project1/Project1.project" Active="Yes"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
   <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
   <Project Name="challenge1st" Path="challenge1st/challenge1st.project" Active="No"/>
   <Project Name="FromGlobalVariables" Path="FromGlobalVariables/FromGlobalVariables.project" Active="No"/>
+  <Project Name="sizesofoperator" Path="sizesofoperator/sizesofoperator.project" Active="No"/>
+  <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="StatementsAndOperators" Path="StatementsAndOperators/StatementsAndOperators.project" Active="No"/>
+  <Project Name="ControlFlow" Path="ControlFlow/ControlFlow.project" Active="No"/>
+  <Project Name="FromContinueandBreak" Path="FromContinueandBreak/FromContinueandBreak.project" Active="No"/>
+  <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -12,6 +20,14 @@
       <Project Name="Declaringandinitializingvariables" ConfigName="Debug"/>
       <Project Name="challenge1st" ConfigName="Debug"/>
       <Project Name="FromGlobalVariables" ConfigName="Debug"/>
+      <Project Name="sizesofoperator" ConfigName="Debug"/>
+      <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="StatementsAndOperators" ConfigName="Debug"/>
+      <Project Name="ControlFlow" ConfigName="Debug"/>
+      <Project Name="FromContinueandBreak" ConfigName="Debug"/>
+      <Project Name="NestedLoops" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
