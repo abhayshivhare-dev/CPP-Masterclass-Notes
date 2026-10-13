@@ -10,18 +10,18 @@
 //    return 0;
 // }
 
-#include <iostream> 
-using namespace std;
-int main () { 
-    
-    for(int num1 = 1 ; num1 <= 10 ; ++num1) {
-        for(int num2 = 1 ; num2 <= 10 ; ++num2) {
-            cout << num1 << " * " << num2 << " = " << num1 * num2 << endl;
-        }
-        cout << "--------------------------" << endl;
-    }
-    return 0;
-}    
+//#include <iostream> 
+//using namespace std;
+//int main () { 
+//    
+//    for(int num1 = 1 ; num1 <= 10 ; ++num1) {
+//        for(int num2 = 1 ; num2 <= 10 ; ++num2) {
+//            cout << num1 << " * " << num2 << " = " << num1 * num2 << endl;
+//        }
+//        cout << "--------------------------" << endl;
+//    }
+//    return 0;
+//}    
 //#include <iostream>
 //using namespace std;
 //int main () {
@@ -59,3 +59,27 @@ int main () {
 //    }
 //    return 0;
 //}
+
+#include <iostream>
+#include <vector>
+using namespace std;
+int main () {
+    
+    int num_items {};
+    
+    cout << "How many data items do you have: ";
+    cin >> num_items;
+    
+    vector<int> data{};
+    
+    for (int i; i<= num_items; ++i) {
+        int data_item{};
+        cout << "Enter data items: " << i << ": ";
+        cin >> data_item;
+        data.push_back(data_item);
+    }
+    
+    for (auto val : data)
+        cout << val << endl;
+        return 0;
+}
