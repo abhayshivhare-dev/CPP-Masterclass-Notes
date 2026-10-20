@@ -78,8 +78,16 @@ int main () {
         cin >> data_item;
         data.push_back(data_item);
     }
-    
-    for (auto val : data)
-        cout << val << endl;
+    cout << "Displaying Histogram " << endl;
+    for (auto val : data) {
+        for(int i{1}; i<=val ; ++i) {
+            if(i % 5 == 0)
+                cout << "*";
+            else    
+                cout << "-";
+        }
+        cout << endl;
+    }
+    cout << endl;
         return 0;
 }

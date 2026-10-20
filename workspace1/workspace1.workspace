@@ -11,7 +11,8 @@
   <Project Name="StatementsAndOperators" Path="StatementsAndOperators/StatementsAndOperators.project" Active="No"/>
   <Project Name="ControlFlow" Path="ControlFlow/ControlFlow.project" Active="No"/>
   <Project Name="FromContinueandBreak" Path="FromContinueandBreak/FromContinueandBreak.project" Active="No"/>
-  <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="Yes"/>
+  <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="No"/>
+  <Project Name="Section9ChallangeSolution" Path="Section9ChallangeSolution/Section9ChallangeSolution.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -28,6 +29,7 @@
       <Project Name="ControlFlow" ConfigName="Debug"/>
       <Project Name="FromContinueandBreak" ConfigName="Debug"/>
       <Project Name="NestedLoops" ConfigName="Debug"/>
+      <Project Name="Section9ChallangeSolution" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
