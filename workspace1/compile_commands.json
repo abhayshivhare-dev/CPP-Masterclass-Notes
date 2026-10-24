@@ -40,6 +40,11 @@
     "file": "F:\\workspaces\\workspace1\\FromContinueandBreak\\main.cpp"
   },
   {
+    "command": "C:/mingw64/bin/g++.exe -c F:\\workspaces\\workspace1\\C-StyleStrings\\main.cpp -o F:\\workspaces\\workspace1\\C-StyleStrings\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\16.1.0 -IC:\\mingw64\\include\\c++\\16.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\16.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\16.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\16.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall",
+    "directory": "F:\\workspaces\\workspace1\\C-StyleStrings",
+    "file": "F:\\workspaces\\workspace1\\C-StyleStrings\\main.cpp"
+  },
+  {
     "command": "C:/mingw64/bin/g++.exe -c F:\\workspaces\\workspace1\\Project2\\main.cpp -o F:\\workspaces\\workspace1\\Project2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\16.1.0 -IC:\\mingw64\\include\\c++\\16.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\16.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\16.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\16.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall",
     "directory": "F:\\workspaces\\workspace1\\Project2",
     "file": "F:\\workspaces\\workspace1\\Project2\\main.cpp"
