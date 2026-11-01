@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "==========Building project:[ C-StyleStrings - Debug ]=========="
-	@cd "C-StyleStrings" && "$(MAKE)" -f  "C-StyleStrings.mk"
+	@echo "==========Building project:[ CppStrings - Debug ]=========="
+	@cd "CppStrings" && "$(MAKE)" -f  "CppStrings.mk"
 clean:
-	@echo "==========Cleaning project:[ C-StyleStrings - Debug ]----------"
-	@cd "C-StyleStrings" && "$(MAKE)" -f  "C-StyleStrings.mk" clean
+	@echo "==========Cleaning project:[ CppStrings - Debug ]----------"
+	@cd "CppStrings" && "$(MAKE)" -f  "CppStrings.mk" clean

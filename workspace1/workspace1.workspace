@@ -13,7 +13,8 @@
   <Project Name="FromContinueandBreak" Path="FromContinueandBreak/FromContinueandBreak.project" Active="No"/>
   <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="No"/>
   <Project Name="Section9ChallangeSolution" Path="Section9ChallangeSolution/Section9ChallangeSolution.project" Active="No"/>
-  <Project Name="C-StyleStrings" Path="C-StyleStrings/C-StyleStrings.project" Active="Yes"/>
+  <Project Name="C-StyleStrings" Path="C-StyleStrings/C-StyleStrings.project" Active="No"/>
+  <Project Name="CppStrings" Path="CppStrings/CppStrings.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -32,6 +33,7 @@
       <Project Name="NestedLoops" ConfigName="Debug"/>
       <Project Name="Section9ChallangeSolution" ConfigName="Debug"/>
       <Project Name="C-StyleStrings" ConfigName="Debug"/>
+      <Project Name="CppStrings" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
