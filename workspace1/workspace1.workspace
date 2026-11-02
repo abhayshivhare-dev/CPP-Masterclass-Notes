@@ -14,7 +14,9 @@
   <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="No"/>
   <Project Name="Section9ChallangeSolution" Path="Section9ChallangeSolution/Section9ChallangeSolution.project" Active="No"/>
   <Project Name="C-StyleStrings" Path="C-StyleStrings/C-StyleStrings.project" Active="No"/>
-  <Project Name="CppStrings" Path="CppStrings/CppStrings.project" Active="Yes"/>
+  <Project Name="CppStrings" Path="CppStrings/CppStrings.project" Active="No"/>
+  <Project Name="Section10Challange" Path="Section10Challange/Section10Challange.project" Active="No"/>
+  <Project Name="LearningMathFunctions" Path="LearningMathFunctions/LearningMathFunctions.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -34,6 +36,8 @@
       <Project Name="Section9ChallangeSolution" ConfigName="Debug"/>
       <Project Name="C-StyleStrings" ConfigName="Debug"/>
       <Project Name="CppStrings" ConfigName="Debug"/>
+      <Project Name="Section10Challange" ConfigName="Debug"/>
+      <Project Name="LearningMathFunctions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
