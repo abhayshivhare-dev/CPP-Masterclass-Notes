@@ -16,7 +16,8 @@
   <Project Name="C-StyleStrings" Path="C-StyleStrings/C-StyleStrings.project" Active="No"/>
   <Project Name="CppStrings" Path="CppStrings/CppStrings.project" Active="No"/>
   <Project Name="Section10Challange" Path="Section10Challange/Section10Challange.project" Active="No"/>
-  <Project Name="LearningMathFunctions" Path="LearningMathFunctions/LearningMathFunctions.project" Active="Yes"/>
+  <Project Name="LearningMathFunctions" Path="LearningMathFunctions/LearningMathFunctions.project" Active="No"/>
+  <Project Name="FunctionsClass2nd" Path="FunctionsClass2nd/FunctionsClass2nd.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -38,6 +39,7 @@
       <Project Name="CppStrings" ConfigName="Debug"/>
       <Project Name="Section10Challange" ConfigName="Debug"/>
       <Project Name="LearningMathFunctions" ConfigName="Debug"/>
+      <Project Name="FunctionsClass2nd" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
